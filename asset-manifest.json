@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/landmarks/static/js/main.92afff30.chunk.js",
-    "main.js.map": "/landmarks/static/js/main.92afff30.chunk.js.map",
+    "main.js": "/landmarks/static/js/main.237cb2ab.chunk.js",
+    "main.js.map": "/landmarks/static/js/main.237cb2ab.chunk.js.map",
     "runtime-main.js": "/landmarks/static/js/runtime-main.aedc6b09.js",
     "runtime-main.js.map": "/landmarks/static/js/runtime-main.aedc6b09.js.map",
     "static/css/2.4e89ce74.chunk.css": "/landmarks/static/css/2.4e89ce74.chunk.css",
     "static/js/2.233a1146.chunk.js": "/landmarks/static/js/2.233a1146.chunk.js",
     "static/js/2.233a1146.chunk.js.map": "/landmarks/static/js/2.233a1146.chunk.js.map",
     "index.html": "/landmarks/index.html",
-    "precache-manifest.9953e3a1232922df2a7ec032e473a420.js": "/landmarks/precache-manifest.9953e3a1232922df2a7ec032e473a420.js",
+    "precache-manifest.d6cfef94c635aede88e9d7b67b429f31.js": "/landmarks/precache-manifest.d6cfef94c635aede88e9d7b67b429f31.js",
     "service-worker.js": "/landmarks/service-worker.js",
     "static/css/2.4e89ce74.chunk.css.map": "/landmarks/static/css/2.4e89ce74.chunk.css.map"
   }
