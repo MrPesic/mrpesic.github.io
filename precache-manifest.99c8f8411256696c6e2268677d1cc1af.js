@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "af53151871b43b4430ce2d94fc3e9ff5",
+    "revision": "2fe4c9ebff169da4fdc98c25411cc3b4",
     "url": "/landmarks/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/landmarks/static/js/2.590833da.chunk.js"
   },
   {
-    "revision": "5763a6f481f061618b66",
-    "url": "/landmarks/static/js/main.1c90b7c2.chunk.js"
+    "revision": "b4dc283a1c8ace12e9bd",
+    "url": "/landmarks/static/js/main.2b6c5d15.chunk.js"
   },
   {
     "revision": "a15742dba7bf51fdbb79",
